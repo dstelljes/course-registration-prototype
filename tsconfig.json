@@ -1,0 +1,14 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": ["dom", "es6"],
+    "moduleResolution": "node",
+    "removeComments": true,
+    "target": "es5"
+  },
+  "include": [
+    "application/**/*"
+  ]
+}
