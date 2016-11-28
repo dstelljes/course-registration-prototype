@@ -1,4 +1,3 @@
-import { APP_BASE_HREF } from "@angular/common";
 import { NgModule as Module } from "@angular/core";
 import { BrowserModule } from "@angular/platform-browser";
 import { RouterModule } from "@angular/router";
@@ -29,12 +28,6 @@ export { UIState } from "./interfaces";
     CartModule,
     EnrollmentModule,
     SearchModule
-  ],
-  providers: [
-    {
-      provide: APP_BASE_HREF,
-      useValue: '/'
-    }
   ]
 })
 export class UIModule {
