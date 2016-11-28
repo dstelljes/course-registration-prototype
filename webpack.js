@@ -16,6 +16,11 @@ module.exports = {
   },
   module: {
     rules: [{
+      loaders: [
+        'json-loader'
+      ],
+      test: /\.json$/
+    }, {
       exclude: path.resolve(__dirname, "application/shared/styles"),
       loaders: [
         'raw-loader',

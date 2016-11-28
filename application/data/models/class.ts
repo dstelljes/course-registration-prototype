@@ -24,23 +24,43 @@ export enum ClassMeetingDay {
   Saturday
 }
 
-export type ClassMeetingTime = {
+export type ClassMeetingTime {
+  hour: number,
+  minute: number
+}
+
+export type ClassMeeting = {
   day: ClassMeetingDay,
-  end: number,
-  start: number
+  end: ClassMeetingTime,
+  start: ClassMeetingTime
 }
 
 export interface Class extends Map<string, any> {
+  course: Course,
   enrollmentCapacity: number,
   enrollmentTotal: number,
-  course: Course,
   instructor: Instructor,
   name: string,
   number: number,
   room: Room,
   section: number,
-  times: ClassMeetingTime[],
+  times: ClassMeeting[],
   type: ClassType,
   waitlistCapacity: number,
   waitlistTotal: number
 }
+
+export const ClassRecord = Record({
+  course: null,
+  enrollmentCapacity: null,
+  enrollmentTotal: null,
+  instructor: null,
+  name: null,
+  number: null,
+  room: null,
+  section: null,
+  times: [],
+  type: null,
+  waitlistCapacity: null,
+  waitlistTotal: null
+});

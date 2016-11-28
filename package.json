@@ -29,6 +29,7 @@
     "awesome-typescript-loader": "^3.0.0-beta.3",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.26.0",
+    "json-loader": "^0.5.4",
     "node-sass": "^3.13.0",
     "raw-loader": "^0.5.1",
     "rimraf": "^2.5.4",

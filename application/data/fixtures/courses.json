@@ -1,0 +1,16 @@
+[
+  {
+    "id": "MO-ANTH1111",
+    "attributes": ["MO-SS"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Varieties and range of human behavior as revealed through the comparative study of cultures throughout the world. Concepts developed by anthropologists to explain both the unity and diversity of humankind.",
+    "institution": "MO",
+    "name": "Introductory Cultural Anthropology",
+    "number": "1111",
+    "requirements": null,
+    "subject": "ANTH",
+    "term": "FA2016",
+    "units": 4
+  }
+]

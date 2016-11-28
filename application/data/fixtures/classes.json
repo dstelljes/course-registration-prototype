@@ -1,0 +1,25 @@
+[
+  {
+    "course": "MO-ANTH1111",
+    "enrollmentCapacity": 70,
+    "enrollmentTotal": 52,
+    "instructor": "cortiz",
+    "number": 32008,
+    "room": "MO-IMH-111",
+    "section": 1,
+    "times": [{
+      "day": 1,
+      "end": {
+        "hour": 9,
+        "minute": 15
+      },
+      "start": {
+        "hour": 10,
+        "minute": 20
+      }
+    }],
+    "type": 5,
+    "waitlistCapacity": 999,
+    "waitlistTotal": 0
+  }
+]

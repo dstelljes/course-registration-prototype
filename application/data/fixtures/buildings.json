@@ -1,0 +1,9 @@
+[
+  { "id": "EDU", "campus": "MO", "name": "Education Building" },
+  { "id": "HUM", "campus": "MO", "name": "Humanities" },
+  { "id": "HFA", "campus": "MO", "name": "Humanities Fine Arts" },
+  { "id": "IMH", "campus": "MO", "name": "Imholte Hall" },
+  { "id": "MRC", "campus": "MO", "name": "Multi-Ethnic Resource Center" },
+  { "id": "PEC", "campus": "MO", "name": "Physical Education Center" },
+  { "id": "SCI", "campus": "MO", "name": "Science Building" }
+]
