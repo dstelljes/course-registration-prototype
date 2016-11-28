@@ -1,0 +1,19 @@
+@import "../../shared/styles/colors";
+
+.course-name {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 0.25rem;
+}
+
+.course-result {
+  border-bottom: 1px solid $light-gray;
+  cursor: pointer;
+  display: block;
+  padding: 0.5rem;
+}
+
+.course-vitae {
+  color: $gray;
+  font-size: 0.9em;
+}

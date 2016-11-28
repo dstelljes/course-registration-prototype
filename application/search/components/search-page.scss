@@ -1,0 +1,28 @@
+@import "../../shared/styles/colors";
+
+.search-page {
+  .detail-pane {
+    left: 50%;
+    width: 50%;
+  }
+
+  .filter-pane {
+    background-color: $lighter-gray;
+    border-right: 1px solid $light-gray;
+    left: 0;
+    width: 25%;
+  }
+
+  .pane {
+    bottom: 0;
+    overflow-y: auto;
+    position: absolute;
+    top: 0;
+  }
+
+  .result-pane {
+    border-right: 1px solid $light-gray;
+    left: 25%;
+    width: 25%;
+  }
+}
