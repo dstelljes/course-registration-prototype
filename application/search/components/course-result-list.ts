@@ -1,7 +1,6 @@
 import { Component, Input } from "@angular/core";
 
 import { Course } from '../../data/models/course';
-import { CourseService } from '../../data/services/course-service';
 
 @Component({
   selector: "course-result-list",
@@ -20,5 +19,5 @@ import { CourseService } from '../../data/services/course-service';
 })
 export class CourseResultListComponent {
   @Input() courses: Course[];
-  @Input() detail: Course
+  @Input() detail: Course;
 }

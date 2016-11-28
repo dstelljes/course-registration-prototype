@@ -133,8 +133,24 @@ for (let fixture of CLASS_FIXTURES) {
 
 @Injectable()
 export class CourseService {
+  getAllAttributes(): Attribute[] {
+    return Array.from(attributes.values());
+  }
+
+  getAllCampuses(): Campus[] {
+    return Array.from(campuses.values());
+  }
+
   getAllCourses(): Course[] {
     return Array.from(courses.values());
+  }
+
+  getAllSubjects(): Subject[] {
+    return Array.from(subjects.values());
+  }
+
+  getAllTerms(): Term[] {
+    return Array.from(terms.values());
   }
 
   getClassesForCourse(course: Course): Class[] {
