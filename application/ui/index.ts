@@ -3,7 +3,12 @@ import { NgModule as Module } from "@angular/core";
 import { BrowserModule } from "@angular/platform-browser";
 import { RouterModule } from "@angular/router";
 
+import { CartModule } from "../cart";
+import { EnrollmentModule } from "../enrollment";
+import { SearchModule } from "../search";
+
 import { UIComponent } from "./components/ui";
+import { UIHeaderComponent } from "./components/header";
 
 export { UIState } from "./interfaces";
 
@@ -12,13 +17,18 @@ export { UIState } from "./interfaces";
     UIComponent
   ],
   declarations: [
-    UIComponent
+    UIComponent,
+    UIHeaderComponent
   ],
   imports: [
     BrowserModule,
     RouterModule.forRoot([], {
       useHash: true
-    })
+    }),
+
+    CartModule,
+    EnrollmentModule,
+    SearchModule
   ],
   providers: [
     {

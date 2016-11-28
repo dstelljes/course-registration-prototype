@@ -1,0 +1,44 @@
+@import "../../shared/styles/colors";
+
+.ui-brand {
+  display: inline-block;
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 3rem;
+  margin: 0;
+}
+
+.ui-header {
+  background-color: $red;
+  color: $white;
+
+  a {
+    color: $white;
+  }
+}
+
+.ui-primary-navigation {
+  display: inline-block;
+  margin-left: 2rem;
+
+  .horizontal-list {
+    margin: 0;
+  }
+
+  .item {
+    a {
+      border-bottom: 0.25em solid transparent;
+      display: block;
+      line-height: 2.75rem;
+      margin: 0 0.25rem;
+      padding: 0 0.75rem;
+      transition: 0.2s border-bottom-color;
+
+      &.active {
+        border-bottom-color: $yellow;
+        font-weight: bold;
+        letter-spacing: -0.0125em;
+      }
+    }
+  }
+}

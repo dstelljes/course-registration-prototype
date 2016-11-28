@@ -16,6 +16,21 @@ module.exports = {
   },
   module: {
     rules: [{
+      exclude: path.resolve(__dirname, "application/shared/styles"),
+      loaders: [
+        'raw-loader',
+        'sass-loader'
+      ],
+      test: /\.scss$/
+    }, {
+      include: path.resolve(__dirname, "application/shared/styles"),
+      loaders: [
+        'style-loader',
+        'css-loader',
+        'sass-loader'
+      ],
+      test: /\.scss$/
+    }, {
       loaders: [
         'awesome-typescript-loader'
       ],
