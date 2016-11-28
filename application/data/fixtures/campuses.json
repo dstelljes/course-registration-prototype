@@ -1,3 +1,9 @@
 [
-  { "id": "MO", "institution": "MO", "name": "Morris" }
+  { "id": "TCM", "institution": "TCM", "name": "Twin Cities - Minneapolis" },
+  { "id": "TCSP", "institution": "TCSP", "name": "Twin Cities - Saint Paul" },
+  { "id": "MO", "institution": "MO", "name": "Morris" },
+  { "id": "DU", "institution": "DU", "name": "Duluth" },
+  { "id": "CR", "institution": "CR", "name": "Crookston" },
+  { "id": "RC", "institution": "RC", "name": "Rochester" },
+  { "id": "WS", "institution": "WS", "name": "Waseca" }
 ]
