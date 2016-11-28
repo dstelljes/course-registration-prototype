@@ -25,7 +25,7 @@
     "subject": "ANTH",
     "term": "SP2017",
     "units": 2
-  }, {    
+  }, {
     "id": "MO-CMR1052",
     "attributes": ["MO-HUM"],
     "campus": "MO",
@@ -38,7 +38,7 @@
     "subject": "CMR",
     "term": "SP2017",
     "units": 2
-  }, {    
+  }, {
     "id": "MO-CMR1388",
     "attributes": ["MO-HUM"],
     "campus": "MO",
@@ -63,8 +63,34 @@
     "requirements": null,
     "subject": "ARTH",
     "term": "SP2017",
-    "units": 4 
-  }, {    
+    "units": 4
+  }, {
+    "id": "MO-ARTH3132",
+    "attributes": ["MO-FA"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "An investigation of the two major forms of architectural construction in the Middle Ages. Exploration of the development of the cathedral and castle as architectural forms and examination of the circumstances surrounding their evolution through the medieval period. Examples are drawn from continental Europe, the British Isles, and the Levant.",
+    "institution": "MO",
+    "name": "Castles and Cathedrals",
+    "number": "3132",
+    "requirements": "Any 1xxx Art History course or jr status",
+    "subject": "ARTH",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-ARTH3231",
+    "attributes": ["MO-FA"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Survey of European and American photography from the period of invention to the present. Major artists and movements are examined in the context of a variety of aesthetic, social, and technical issues.",
+    "institution": "MO",
+    "name": "History of Photography",
+    "number": "3231",
+    "requirements": "Any 1xxx Art History course or jr status",
+    "subject": "ARTH",
+    "term": "SP2017",
+    "units": 4
+  }, {
     "id": "MO-ARTS1102",
     "attributes": ["MO-FA"],
     "campus": "MO",
@@ -77,7 +103,33 @@
     "subject": "ARTS",
     "term": "SP2017",
     "units": 2
-  }, {    
+  }, {
+    "id": "MO-ARTS1001",
+    "attributes": ["MO-FA"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "For nonmajors with little or no experience in drawing. Exploration of observational drawing skills through line work in contour and gesture, continuing with studies in value, texture, and space. Contemporary and traditional modes of drawing explored using a variety of materials. [Note: no elective cr for ArtS majors or minors; materials fee required]",
+    "institution": "MO",
+    "name": "Visual Studies for Non-Majors: Drawing",
+    "number": "1001",
+    "requirements": null,
+    "subject": "ARTS",
+    "term": "SP2017",
+    "units": 3
+  }, {
+    "id": "MO-ARTS1050",
+    "attributes": ["MO-FA"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "ersonal expression through the medium of clay. Topics include forming methods using stoneware and porcelain (hand building and wheel techniques), glazing, the nature of clay, glaze chemistry, firing, and kilns.",
+    "institution": "MO",
+    "name": "Beginning Ceramics",
+    "number": "1050",
+    "requirements": null,
+    "subject": "ARTS",
+    "term": "SP2017",
+    "units": 3
+  }, {
     "id": "MO-SPAN1002",
     "attributes": ["MO-FL"],
     "campus": "MO",
@@ -90,7 +142,7 @@
     "subject": "SPAN",
     "term": "SP2017",
     "units": 4
-  }, {    
+  }, {
     "id": "MO-FREN1002",
     "attributes": ["MO-FL"],
     "campus": "MO",
@@ -103,7 +155,7 @@
     "subject": "FREN",
     "term": "SP2017",
     "units": 4
-  }, {    
+  }, {
     "id": "MO-CSCI1201",
     "attributes": ["MO-M/SR"],
     "campus": "MO",
@@ -116,7 +168,7 @@
     "subject": "CSCI",
     "term": "SP2017",
     "units": 4
-  }, {    
+  }, {
     "id": "MO-MATH1101",
     "attributes": ["MO-M/SR"],
     "campus": "MO",
@@ -129,7 +181,7 @@
     "subject": "MATH",
     "term": "SP2017",
     "units": 5
-  }, {    
+  }, {
     "id": "MO-HIST1111",
     "attributes": ["MO-HIST"],
     "campus": "MO",
@@ -142,7 +194,7 @@
     "subject": "HIST",
     "term": "SP2017",
     "units": 4
-  }, {    
+  }, {
     "id": "MO-HIST1501",
     "attributes": ["MO-HIST"],
     "campus": "MO",
