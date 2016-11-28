@@ -1,6 +1,6 @@
 import { Map, Record } from "immutable";
 
-export interface Instructor {
+export interface Instructor extends Map<string, any> {
   name: string,
   x500: string
 }

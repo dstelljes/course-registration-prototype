@@ -24,7 +24,7 @@ export enum ClassMeetingDay {
   Saturday
 }
 
-export type ClassMeetingTime {
+export type ClassMeetingTime = {
   hour: number,
   minute: number
 }
@@ -40,7 +40,6 @@ export interface Class extends Map<string, any> {
   enrollmentCapacity: number,
   enrollmentTotal: number,
   instructor: Instructor,
-  name: string,
   number: number,
   room: Room,
   section: number,
@@ -55,7 +54,6 @@ export const ClassRecord = Record({
   enrollmentCapacity: null,
   enrollmentTotal: null,
   instructor: null,
-  name: null,
   number: null,
   room: null,
   section: null,

@@ -12,11 +12,7 @@
     "subject": "ANTH",
     "term": "SP2017",
     "units": 4
-   }
-]
-[
-  {
-    
+  }, {
     "id": "MO-ANTH3251",
     "attributes": ["MO-SS"],
     "campus": "MO",
@@ -29,10 +25,7 @@
     "subject": "ANTH",
     "term": "SP2017",
     "units": 2
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-CMR1052",
     "attributes": ["MO-HUM"],
     "campus": "MO",
@@ -45,10 +38,7 @@
     "subject": "CMR",
     "term": "SP2017",
     "units": 2
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-CMR1388",
     "attributes": ["MO-HUM"],
     "campus": "MO",
@@ -61,10 +51,7 @@
     "subject": "CMR",
     "term": "SP2017",
     "units": 1
-   }
-]    
-[
-  {
+  }, {
     "id": "MO-ARTH1121",
     "attributes": ["MO-FA"],
     "campus": "MO",
@@ -77,10 +64,7 @@
     "subject": "ARTH",
     "term": "SP2017",
     "units": 4 
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-ARTS1102",
     "attributes": ["MO-FA"],
     "campus": "MO",
@@ -93,10 +77,7 @@
     "subject": "ARTS",
     "term": "SP2017",
     "units": 2
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-SPAN1002",
     "attributes": ["MO-FL"],
     "campus": "MO",
@@ -109,10 +90,7 @@
     "subject": "SPAN",
     "term": "SP2017",
     "units": 4
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-FREN1002",
     "attributes": ["MO-FL"],
     "campus": "MO",
@@ -125,10 +103,7 @@
     "subject": "FREN",
     "term": "SP2017",
     "units": 4
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-CSCI1201",
     "attributes": ["MO-M/SR"],
     "campus": "MO",
@@ -141,10 +116,7 @@
     "subject": "CSCI",
     "term": "SP2017",
     "units": 4
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-MATH1101",
     "attributes": ["MO-M/SR"],
     "campus": "MO",
@@ -157,10 +129,7 @@
     "subject": "MATH",
     "term": "SP2017",
     "units": 5
-   }
-]     
-[
-  {    
+  }, {    
     "id": "MO-HIST1111",
     "attributes": ["MO-HIST"],
     "campus": "MO",
@@ -173,10 +142,7 @@
     "subject": "HIST",
     "term": "SP2017",
     "units": 4
-   }
-]    
-[
-  {    
+  }, {    
     "id": "MO-HIST1501",
     "attributes": ["MO-HIST"],
     "campus": "MO",
@@ -189,22 +155,5 @@
     "subject": "HIST",
     "term": "SP2017",
     "units": 4
-   }
-]    
-[
-  {    
-     "id": "",
-    "attributes": [""],
-    "campus": "",
-    "career": "",
-    "description": "",
-    "institution": "",
-    "name": "",
-    "number": "",
-    "requirements": "",
-    "subject": "",
-    "term": "",
-    "units": 
-
   }
 ]
