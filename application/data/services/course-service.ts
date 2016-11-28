@@ -136,4 +136,9 @@ export class CourseService {
   getAllCourses(): Course[] {
     return Array.from(courses.values());
   }
+
+  getClassesForCourse(course: Course): Class[] {
+    return Array.from(classes.values())
+      .filter((element) => element.course == course);
+  }
 }

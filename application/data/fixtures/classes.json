@@ -11,12 +11,32 @@
     "times": [{
       "day": 1,
       "end": {
-        "hour": 9,
-        "minute": 15
-      },
-      "start": {
         "hour": 10,
         "minute": 20
+      },
+      "start": {
+        "hour": 9,
+        "minute": 15
+      }
+    }, {
+      "day": 3,
+      "end": {
+        "hour": 10,
+        "minute": 20
+      },
+      "start": {
+        "hour": 9,
+        "minute": 15
+      }
+    }, {
+      "day": 5,
+      "end": {
+        "hour": 10,
+        "minute": 20
+      },
+      "start": {
+        "hour": 9,
+        "minute": 15
       }
     }],
     "type": 5,

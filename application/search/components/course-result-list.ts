@@ -9,7 +9,7 @@ import { CourseService } from '../../data/services/course-service';
     require("./course-result-list.scss")
   ],
   template: `
-    <a class="course-result" *ngFor="let course of courses">
+    <a class="course-result" *ngFor="let course of courses" routerLink="/search/{{ course.subject.abbreviation }}/{{ course.number }}">
       <h3 class="course-name">{{ course.name }}</h3>
 
       <div class="course-vitae">
@@ -20,4 +20,5 @@ import { CourseService } from '../../data/services/course-service';
 })
 export class CourseResultListComponent {
   @Input() courses: Course[];
+  @Input() detail: Course
 }

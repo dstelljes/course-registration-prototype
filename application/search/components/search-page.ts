@@ -4,7 +4,6 @@ import { Course } from '../../data/models/course';
 import { CourseService } from '../../data/services/course-service';
 
 @Component({
-  selector: "search-page",
   styles: [
     require("./search-page.scss")
   ],
@@ -15,10 +14,11 @@ import { CourseService } from '../../data/services/course-service';
       </div>
 
       <div class="pane result-pane">
-        <course-result-list [courses]="courses"></course-result-list>
+        <course-result-list [courses]="courses" [detail]="detail"></course-result-list>
       </div>
 
       <div class="pane detail-pane">
+        <router-outlet></router-outlet>
       </div>
     </section>
   `
