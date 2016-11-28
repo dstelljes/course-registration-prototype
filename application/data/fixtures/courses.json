@@ -10,7 +10,201 @@
     "number": "1111",
     "requirements": null,
     "subject": "ANTH",
-    "term": "FA2016",
+    "term": "SP2017",
     "units": 4
+   }
+]
+[
+  {
+    
+    "id": "MO-ANTH3251",
+    "attributes": ["MO-SS"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Exploration of human ecology with an emphasis on human health and demographics, the relationship between socio-environmental factors and human health/demographics, and the evolution of human adaptations.  ",
+    "institution": "MO",
+    "name": "Health and Human Ecology",
+    "number": "3251",
+    "requirements": "any 1xxx Anth course",
+    "subject": "ANTH",
+    "term": "SP2017",
+    "units": 2
+   }
+]    
+[
+  {    
+    "id": "MO-CMR1052",
+    "attributes": ["MO-HUM"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Activities, assignments, and exercises related to public address/public speaking in a variety of speech settings.",
+    "institution": "MO",
+    "name": "Introduction to Public Speaking",
+    "number": "1052",
+    "requirements": null,
+    "subject": "CMR",
+    "term": "SP2017",
+    "units": 2
+   }
+]    
+[
+  {    
+    "id": "MO-CMR1388",
+    "attributes": ["MO-HUM"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Supervised experience of selected learning activities to be done in conjunction with an appointment working at the campus newspaper",
+    "institution": "MO",
+    "name": "College Newspaper Experience",
+    "number": "1388",
+    "requirements": "instr consent",
+    "subject": "CMR",
+    "term": "SP2017",
+    "units": 1
+   }
+]    
+[
+  {
+    "id": "MO-ARTH1121",
+    "attributes": ["MO-FA"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Survey of the major works of art of western Europe and the United States from 1400 to the present.",
+    "institution": "MO",
+    "name": "Renaissance to Modern Art",
+    "number": "1121",
+    "requirements": null,
+    "subject": "ARTH",
+    "term": "SP2017",
+    "units": 4 
+   }
+]    
+[
+  {    
+    "id": "MO-ARTS1102",
+    "attributes": ["MO-FA"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "ArtS 1102, 1104, 1106 must be taken concurrently. Without permission numbers, registration must be done at the Office of the Registrar, 212 Behmler Hall",
+    "institution": "MO",
+    "name": "Basic Studio Drawing II",
+    "number": "1102",
+    "requirements": "1101, coreq 1104, 1106; one 1xxx ArtH course recommended during the same year",
+    "subject": "ARTS",
+    "term": "SP2017",
+    "units": 2
+   }
+]    
+[
+  {    
+    "id": "MO-SPAN1002",
+    "attributes": ["MO-FL"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Beginning Spanish II",
+    "number": "1002",
+    "requirements": "Span 1001",
+    "subject": "SPAN",
+    "term": "SP2017",
+    "units": 4
+   }
+]    
+[
+  {    
+    "id": "MO-FREN1002",
+    "attributes": ["MO-FL"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Beginning French II",
+    "number": "1002",
+    "requirements": "Fren 1001 or placement at Fren 1002",
+    "subject": "FREN",
+    "term": "SP2017",
+    "units": 4
+   }
+]    
+[
+  {    
+    "id": "MO-CSCI1201",
+    "attributes": ["MO-M/SR"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Introduction to Digital Media Computation",
+    "number": "1201",
+    "requirements": null,
+    "subject": "CSCI",
+    "term": "SP2017",
+    "units": 4
+   }
+]    
+[
+  {    
+    "id": "MO-MATH1101",
+    "attributes": ["MO-M/SR"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Calculus I",
+    "number": "1101",
+    "requirements": "Math 1012 and Math 1013 (or placement at Math 1101)",
+    "subject": "MATH",
+    "term": "SP2017",
+    "units": 5
+   }
+]     
+[
+  {    
+    "id": "MO-HIST1111",
+    "attributes": ["MO-HIST"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Introduction to World History",
+    "number": "1111",
+    "requirements": null,
+    "subject": "HIST",
+    "term": "SP2017",
+    "units": 4
+   }
+]    
+[
+  {    
+    "id": "MO-HIST1501",
+    "attributes": ["MO-HIST"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Introduction to East Asian History: China, Japan, and Korea before 1800",
+    "number": "1501",
+    "requirements": null,
+    "subject": "HIST",
+    "term": "SP2017",
+    "units": 4
+   }
+]    
+[
+  {    
+     "id": "",
+    "attributes": [""],
+    "campus": "",
+    "career": "",
+    "description": "",
+    "institution": "",
+    "name": "",
+    "number": "",
+    "requirements": "",
+    "subject": "",
+    "term": "",
+    "units": 
+
   }
 ]
