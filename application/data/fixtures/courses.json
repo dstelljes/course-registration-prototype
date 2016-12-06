@@ -26,6 +26,58 @@
     "term": "SP2017",
     "units": 2
   }, {
+    "id": "MO-PHIL2111",
+    "attributes": ["MO-SS"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "An introduction to philosophical accounts of what makes right acts right and wrong acts wrong, issues involving the concept of goodness, and arguments or debates about moral responsibility.",
+    "institution": "MO",
+    "name": "Introductory Ethics",
+    "number": "2111",
+    "requirements": "",
+    "subject": "philosophical",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-POL1101",
+    "attributes": ["MO-SS"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "An introduction to key political concepts, questions, and ideologies through the writings of major thinkers of Western political theory and examination of contemporary debates about political life.",
+    "institution": "MO",
+    "name": "Introduction to Political Theory",
+    "number": "1101",
+    "requirements": "",
+    "subject": "POL",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-PSY1051",
+    "attributes": ["MO-SS"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "An introduction to the science of mind and behavior. Topics include history of psychology, research methods, biological bases for behavior, life span development, sensation and perception, learning, cognitive and social processes, personality, psychopathology, and applications of psychology.",
+    "institution": "MO",
+    "name": "Introduction to Psychology",
+    "number": "1051",
+    "requirements": "",
+    "subject": "PSY",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-PSY2001",
+    "attributes": ["MO-SS"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Design, analysis, and interpretation of research in psychology.  Instruction on different research techniques and ethics in research.  Students conduct, analyze, and evaluate empirical research and gain experience preparing APA-style research reports. Includes laboratory/discussion sessions.",
+    "institution": "MO",
+    "name": "Research Methods in Psychology",
+    "number": "2001",
+    "requirements": "1051, Stat 1601 or Stat 2601, or instr consent",
+    "subject": "PSY",
+    "term": "SP2017",
+    "units": 4
+  }, {  
     "id": "MO-CMR1052",
     "attributes": ["MO-HUM"],
     "campus": "MO",
@@ -51,6 +103,58 @@
     "subject": "CMR",
     "term": "SP2017",
     "units": 1
+  }, {
+    "id": "MO-SOC1101",
+    "attributes": ["MO-HUM"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Introduction to the field of sociology, the exploration of societies, and how societies operate. Sociology broadens social insights, fosters critical thinking, guides analytical thinking, and develops writing skills. By actively thinking about issues facing societies today, students learn to examine life situations and the influence of societies and groups on people's lives, careers, hopes, fears, and personalities. Emphasis on how society is stratified: how organizations and institutions influence the way people think, talk, feel, and act and how different groups (e.g., racial and ethnic) and divisions (e.g., gender and social class) within society have different access to power and privilege. People live their lives in relation to social and physical environments; sociologists study these environments and their effects on people's experiences and behavior.",
+    "institution": "MO",
+    "name": "Introductory Sociology",
+    "number": "1101",
+    "requirements": "",
+    "subject": "SOC",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-SOC2201",
+    "attributes": ["MO-HUM"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Introduces students to the sociological study of food and society. Examines the complexities of food, health, and power relations as well as the intersections of food with race, class, gender, and sexuality. Explores patterns of consumption and embodiment. Applies a sociological lens to food in relation to globalization, systems of inequality, and social change.",
+    "institution": "MO",
+    "name": "Sociology of Food",
+    "number": "2201",
+    "requirements": "1101 or instr consent",
+    "subject": "SOC",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-ED2121",
+    "attributes": ["MO-HUM"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Students complete 30 hours of preprofessional field experience in the schools. Students enrolled in this course are required to pay for and submit to a Minnesota background check.",
+    "institution": "MO",
+    "name": "Tutor-Aide Practicum",
+    "number": "2111",
+    "requirements": "coreq 2121",
+    "subject": "ED",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-ENGL1601",
+    "attributes": ["MO-HUM"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Instruction in academic writing: analysis, argument, inquiry, research, scholarly conversation, clarity, style. Emphasis on writing processes: plan, draft, review, rewrite, revise. Development of information literacy: identify, locate, evaluate, cite, and use electronic and print resources. Workshops with peers and instructor.",
+    "institution": "MO",
+    "name": "Writing for the Liberal Arts",
+    "number": "1601",
+    "requirements": "",
+    "subject": "ENGL",
+    "term": "SP2017",
+    "units": 4
   }, {
     "id": "MO-ARTH1121",
     "attributes": ["MO-FA"],
@@ -156,6 +260,32 @@
     "term": "SP2017",
     "units": 4
   }, {
+    "id": "MO-ITAL",
+    "attributes": ["MO-FL"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Beginning Italian II",
+    "number": "1002",
+    "requirements": "1001 or placement or instr consent",
+    "subject": "ITAL",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-GER1002",
+    "attributes": ["MO-FL"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": null,
+    "institution": "MO",
+    "name": "Beginning German II",
+    "number": "1001 or placement or instr consent",
+    "requirements": "",
+    "subject": "GER",
+    "term": "SP2017",
+    "units": 4
+  }, {
     "id": "MO-CSCI1201",
     "attributes": ["MO-M/SR"],
     "campus": "MO",
@@ -182,6 +312,58 @@
     "term": "SP2017",
     "units": 5
   }, {
+    "id": "MO-BIOL1002",
+    "attributes": ["MO-M/SR"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Nutrients essential to human life and well-being. Digestion, absorption, and metabolism of nutrients. Changes in metabolism during disease. Nutrients and their roles. Sports nutrition, weight loss/gain diets, nutritional myths. (two 65-min lect)[Note: no elective cr for biol majors or minors]",
+    "institution": "MO",
+    "name": "Human Nutrition",
+    "number": "1002",
+    "requirements": "",
+    "subject": "BIOL",
+    "term": "SP2017",
+    "units": 3
+  }, {
+    "id": "MO-STAT1601",
+    "attributes": ["MO-M/SR"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Scope, nature, tools, language, and interpretation of elementary statistics. Descriptive statistics; graphical and numerical representation of information; measures of location, dispersion, position, and dependence; exploratory data analysis. Elementary probability theory, discrete and continuous probability models. Inferential statistics, point and interval estimation, tests of statistical hypotheses. Inferences involving one and two populations, ANOVA, regression analysis, and chi-squared tests; use of statistical computer packages.",
+    "institution": "MO",
+    "name": "Introduction to Statistics",
+    "number": "1601",
+    "requirements": "high school higher algebra",
+    "subject": "STAT",
+    "term": "SP2017",
+    "units": 4
+  }, {
+    "id": "MO-CHEM1102",
+    "attributes": ["MO-M/SR"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Continuation of Chem 1101. Chemical bonding, states of matter, solutions, acid-base chemistry, chemical equilibrium, oxidation-reduction reactions, kinetics, thermodynamics, quantum theory, nuclear chemistry, organic chemistry, and biochemistry. Lab exercises concomitant with these topics. (three 65-min lect, 180 min lab)",
+    "institution": "MO",
+    "name": "General Chemistry II",
+    "number": "1102",
+    "requirements": "1101",
+    "subject": "CHEM",
+    "term": "SP2017",
+    "units": 0
+  }, {
+    "id": "MO-CHEM2302",
+    "attributes": ["MO-M/SR"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Continuation of topics from Chem 2301; spectroscopy; chemistry of polyenes, aromatic systems, and amines; enol and enolate chemistry; free-radical chemistry; retrosynthetic analysis; special topics.",
+    "institution": "MO",
+    "name": "Organic Chemistry II",
+    "number": "2302",
+    "requirements": "C or better in 2301, coreq 2321 or instr consent for chem majors. Credit will not be granted if credit has been received for: CHEM 2304",
+    "subject": "CHEM",
+    "term": "SP2017",
+    "units": 4
+  }, {
     "id": "MO-HIST1111",
     "attributes": ["MO-HIST"],
     "campus": "MO",
@@ -207,5 +389,31 @@
     "subject": "HIST",
     "term": "SP2017",
     "units": 4
+  }, {
+    "id": "MO-HIST1113",
+    "attributes": ["MO-HIST"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Consideration of Africa's past from the colonial era to the present. Special attention to the challenges Africans faced living under Europe's grip as well as their courage to build independent African nations.",
+    "institution": "MO",
+    "name": "Introduction to African History since 1880",
+    "number": "1113",
+    "requirements": "",
+    "subject": "HIST",
+    "term": "SP2017",
+    "units": 4 
+  }, {
+    "id": "MO-HIST1601",
+    "attributes": ["MO-HIST"],
+    "campus": "MO",
+    "career": "MO-UNDERGRAD",
+    "description": "Methods, themes, and problems in the study of Latin American history.",
+    "institution": "MO",
+    "name": "Latin American History: A Basic Introduction",
+    "number": "1601",
+    "requirements": "",
+    "subject": "HIST",
+    "term": "SP2017",
+    "units": 4 
   }
 ]
